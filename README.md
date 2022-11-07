@@ -21,7 +21,7 @@
   <br>
     <p>⚡ In my free time, I like to develop websites. <a href="https://atomhub.xyz" target="_blank" rel="noopener noreferrer">Atomhub.xyz</a> and <a href="https://cognitohosting.org" target="_blank" rel="noopener noreferrer">Cognitohosting.org</a>.</p>
     <p>👨‍🎓 Interested in learning new languages and modules.</p>
-    <p>📫 How to reach me: <a href="mailto:jaredwestley@gmail.com" >jaredwestley@gmail.com</a>.</p>
+    <p>📫 How to reach me: <a href="mailto:jared@jaredwestley.com" >jared@jaredwestley.com</a>.</p>
     <p>🧑‍💻 Open to offers.</p>
 </div>
 
